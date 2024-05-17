@@ -3,7 +3,7 @@
  *
  * SPDX-License-Identifier: LicenseRef-Nordic-5-Clause
  */
-
+// Program for testing purposes only
 #include <zephyr/types.h>
 #include <stddef.h>
 #include <string.h>
